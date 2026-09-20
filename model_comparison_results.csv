@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1
+Logistic Regression,0.9567,0.973,0.9412,0.9568
+Naive Bayes,0.9567,0.973,0.9412,0.9568
+Neural Network (MLP),0.9567,0.973,0.9412,0.9568
+Random Forest,0.9533,0.9664,0.9412,0.9536
